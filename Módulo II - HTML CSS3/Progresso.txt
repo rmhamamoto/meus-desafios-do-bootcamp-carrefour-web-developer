@@ -1,0 +1,8 @@
+## MODULO II - HTML/CSS3
+
+### Curso: Primeiros passos para desenvolvimento web
+0% concluído
+
+### Curso: Introdução a criação de websites com HTML5 e CSS3
+### Curso: Construindo páginas para internet com Bootstrap
+### Desafio de projeto: Recriando a Interface do Netflix

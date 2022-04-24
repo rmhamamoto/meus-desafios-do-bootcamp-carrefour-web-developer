@@ -1,0 +1,19 @@
+## MODULO I - Conteúdo de Abertura
+
+### Curso: Boas-vindas ao Bootcamp Carrefour Web Developer
+100% concluído
+
+### Curso: Pensamento Computacional
+100% concluído
+
+### Curso: Lógica de Programação Essencial
+100% concluído
+
+### Curso: Introdução ao Git e ao GitHub
+100% concluído
+
+### Curso: Projetos ágeis com SCRUM
+100% concluído
+
+### Desafio de projeto: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+100% concluído
